@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "PyPigLatin"
+version = "0.1.2"
+description = "A module that can convert words or strings of words from English to Pig Latin."
+authors = ["Owen Plimer <o.plimer@outlook.com>"]
+maintainers = ["Sonosus <sonosusoshwa@gmail.com>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/Owen7000/pypiglatin"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

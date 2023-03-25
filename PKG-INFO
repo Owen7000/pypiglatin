@@ -1,6 +1,17 @@
-![PyPI - Downloads](https://img.shields.io/pypi/dm/pypiglatin?style=for-the-badge)
-![PyPI](https://img.shields.io/pypi/v/pypiglatin?style=for-the-badge)
-![PyPI - License](https://img.shields.io/pypi/l/pypiglatin?style=for-the-badge)
+Metadata-Version: 2.1
+Name: pypiglatin
+Version: 0.1.1
+Summary: A module that can convert words or strings of words from English to Pig Latin.
+License: GPL-3.0-only
+Author: Owen Plimer
+Author-email: o.plimer@outlook.com
+Maintainer: Sonosus
+Maintainer-email: sonosusoshwa@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
 
 # PyPigLatin
 
