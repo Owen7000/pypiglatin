@@ -33,6 +33,8 @@ p.translate_string(larger_string)
 # This would print 'igpay atinlay isway ardhay otay eakspay'
 ```
 
+View the docs [Here](https://pypiglatin.readthedocs.io/en/latest/)
+
 ## License
 
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
