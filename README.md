@@ -29,7 +29,7 @@ print(p.translate_word(single_word)
 # To trnalsate a larger string, use the translate_string function
 larger_string = "Pig Latin is hard to speak"
 
-p.translate_string(larger_string)
+print(p.translate_string(larger_string))
 # This would print 'igpay atinlay isway ardhay otay eakspay'
 ```
 
