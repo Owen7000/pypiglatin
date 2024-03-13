@@ -1,6 +1,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pypiglatin?style=for-the-badge)
 ![PyPI](https://img.shields.io/pypi/v/pypiglatin?style=for-the-badge)
 ![PyPI - License](https://img.shields.io/pypi/l/pypiglatin?style=for-the-badge)
+[![Downloads](https://static.pepy.tech/badge/pypiglatin)](https://pepy.tech/project/pypiglatin)
 
 # PyPigLatin
 
