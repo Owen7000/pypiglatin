@@ -1,3 +1,5 @@
+![pypiglatin](https://socialify.git.ci/Owen7000/pypiglatin/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pypiglatin?style=for-the-badge)
 ![PyPI](https://img.shields.io/pypi/v/pypiglatin?style=for-the-badge)
 ![PyPI - License](https://img.shields.io/pypi/l/pypiglatin?style=for-the-badge)
